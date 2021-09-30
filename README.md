@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mark
 
-## I like coding on web and mobile projects
+I like coding on web and mobile projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmcavoy)](https://github.com/anuraghazra/github-readme-stats)
 

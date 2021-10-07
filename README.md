@@ -2,7 +2,9 @@
 
 I like coding on web and mobile projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmcavoy)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=markmcavoy&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmcavoy)](https://github.com/anuraghazra/github-readme-stats?theme=vue-dark)
 
 
 <!--
